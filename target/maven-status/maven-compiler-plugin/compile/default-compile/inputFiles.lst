@@ -1,0 +1,9 @@
+/home/deep/Documents/IntelliJ-workspace/mssc-beer-service/src/main/java/com/deep/msscbeerservice/web/model/BeerDto.java
+/home/deep/Documents/IntelliJ-workspace/mssc-beer-service/src/main/java/com/deep/msscbeerservice/repositories/BeerRespository.java
+/home/deep/Documents/IntelliJ-workspace/mssc-beer-service/src/main/java/com/deep/msscbeerservice/web/model/BeerStyleEnum.java
+/home/deep/Documents/IntelliJ-workspace/mssc-beer-service/src/main/java/com/deep/msscbeerservice/bootstrap/BeerLoader.java
+/home/deep/Documents/IntelliJ-workspace/mssc-beer-service/src/main/java/com/deep/msscbeerservice/web/controller/MvcExceptionHandler.java
+/home/deep/Documents/IntelliJ-workspace/mssc-beer-service/src/main/java/com/deep/msscbeerservice/web/model/BeerPagedList.java
+/home/deep/Documents/IntelliJ-workspace/mssc-beer-service/src/main/java/com/deep/msscbeerservice/web/controller/BeerController.java
+/home/deep/Documents/IntelliJ-workspace/mssc-beer-service/src/main/java/com/deep/msscbeerservice/MsscBeerServiceApplication.java
+/home/deep/Documents/IntelliJ-workspace/mssc-beer-service/src/main/java/com/deep/msscbeerservice/domain/Beer.java

@@ -1,0 +1,11 @@
+com/deep/msscbeerservice/domain/Beer.class
+com/deep/msscbeerservice/web/controller/BeerController.class
+com/deep/msscbeerservice/web/model/BeerPagedList.class
+com/deep/msscbeerservice/web/model/BeerDto$BeerDtoBuilder.class
+com/deep/msscbeerservice/bootstrap/BeerLoader.class
+com/deep/msscbeerservice/repositories/BeerRespository.class
+com/deep/msscbeerservice/web/controller/MvcExceptionHandler.class
+com/deep/msscbeerservice/web/model/BeerDto.class
+com/deep/msscbeerservice/domain/Beer$BeerBuilder.class
+com/deep/msscbeerservice/web/model/BeerStyleEnum.class
+com/deep/msscbeerservice/MsscBeerServiceApplication.class
