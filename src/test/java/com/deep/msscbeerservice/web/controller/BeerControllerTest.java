@@ -38,6 +38,11 @@ class BeerControllerTest {
     }
 
     @Test
+    void name() {
+        System.out.println("TEST");
+    }
+
+    @Test
     void handlePost() throws  Exception{
         //BeerDto beerDto = BeerDto.builder().build();
         BeerDto beerDto = getValidBeerDto();
